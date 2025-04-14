@@ -1,6 +1,6 @@
 # Pokémon Emerald Textbox Simulator
 
-## [Use it at https://meejle.github.io &raquo;](https://meejle.github.io)
+## [Use it at https://pokemonsanfran.github.io &raquo;](https://pokemonsanfran.github.io)
 
 ![A Pokémon Emerald textbox. Text in image: "But despite our closeness, we don't know everything about Pokémon."](https://github.com/meejle/meejle.github.io/assets/35422415/e1a93a1a-9e13-4bef-9372-8a0b3bdb28c8)
 
